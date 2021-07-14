@@ -1,5 +1,3 @@
 import React from "react";
 
-export const Wrapper = () => {
-  return "eror";
-};
+export const Wrapper = ({ children }) => <div>{children}</div>;

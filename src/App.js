@@ -8,9 +8,9 @@ const cityes = [
 const App = () => {
   return (
     <Wrapper>
-      <StaffMenu title="Преподаватели" buttonName="Добавить преподавателя" />
+      {/* <StaffMenu title="Преподаватели" buttonName="Добавить преподавателя" /> */}
       <StaffMenu title="Города" buttonName="Добавить город" content={cityes} />
-      <StaffMenu title="Факультеты" buttonName="Добавить факультет" />
+      {/* <StaffMenu title="Факультеты" buttonName="Добавить факультет" /> */}
     </Wrapper>
   );
 };
