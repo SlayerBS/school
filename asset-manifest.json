@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/school-react/static/js/main.f58733f2.chunk.js",
-    "main.js.map": "/school-react/static/js/main.f58733f2.chunk.js.map",
+    "main.js": "/school-react/static/js/main.e59284a3.chunk.js",
+    "main.js.map": "/school-react/static/js/main.e59284a3.chunk.js.map",
     "runtime-main.js": "/school-react/static/js/runtime-main.034fcd8b.js",
     "runtime-main.js.map": "/school-react/static/js/runtime-main.034fcd8b.js.map",
-    "static/js/2.57de5d70.chunk.js": "/school-react/static/js/2.57de5d70.chunk.js",
-    "static/js/2.57de5d70.chunk.js.map": "/school-react/static/js/2.57de5d70.chunk.js.map",
+    "static/js/2.98a6d5c2.chunk.js": "/school-react/static/js/2.98a6d5c2.chunk.js",
+    "static/js/2.98a6d5c2.chunk.js.map": "/school-react/static/js/2.98a6d5c2.chunk.js.map",
     "index.html": "/school-react/index.html",
-    "static/js/2.57de5d70.chunk.js.LICENSE.txt": "/school-react/static/js/2.57de5d70.chunk.js.LICENSE.txt"
+    "static/js/2.98a6d5c2.chunk.js.LICENSE.txt": "/school-react/static/js/2.98a6d5c2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.034fcd8b.js",
-    "static/js/2.57de5d70.chunk.js",
-    "static/js/main.f58733f2.chunk.js"
+    "static/js/2.98a6d5c2.chunk.js",
+    "static/js/main.e59284a3.chunk.js"
   ]
 }
