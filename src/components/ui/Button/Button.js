@@ -1,13 +1,12 @@
 import React from "react";
-import styles from "./Button.module.css";
+// import styles from "./Button.module.css";
+import { CustomButton } from "./Button.styles";
 
-const currentColor = {
-  Secondary: styles.ButtonSecondary,
-  Default: styles.ButtonDefault,
-};
+// const currentColor = {
+//   Secondary: styles.ButtonSecondary,
+//   Default: styles.ButtonDefault,
+// };
 
 export const Button = ({ name, buttonColor }) => (
-  <button className={[styles.Button, currentColor[buttonColor]].join(" ")}>
-    {name}
-  </button>
+  <CustomButton size="small"> {name}</CustomButton>
 );
